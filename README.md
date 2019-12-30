@@ -16,4 +16,4 @@ and run the following command
 
 ## Output
 
-![samp image](images/samp.png)
+![samp image](images/screenshot.PNG)
